@@ -9,12 +9,11 @@ This repositry contains the code for the Restaurant Recommendation System.
 [Rohan M](https://github.com/rohanmrb)
 
 ## Project
-This repository contains source code for the following models:
+This project contains source code for the following models:
 
 1. TF-IDF Vectorizer and Cosine Similarity
 2. Comparison of Cosine Similarity, Pearson Correlation and Euclidean Distance
 3. Neural Network Model
-<br>
 <br>
 
 ## Data-Set
@@ -28,13 +27,13 @@ The dataset is processed before training on the models,<br> The script to pre-pr
 ## Visualization
 The visualization of the data is provided in the ```src\visualization\Data_Analysis.ipynb``` file.
 
-The results of the analysis is summarized in the ```report\EDA.pdf``` file.
+The results of the analysis is summarized in the ```report\EDA.pdf``` file.<br>
 
 ## Usage
 ```
 pip install -r requirements.txt
 ```
-Before running the code, install the required libraries using the above command.
+Before running the code, install the required libraries using the above command.<br>
 
 ## All the additional details regarding the models are provided in the ```docs``` folder.
 
