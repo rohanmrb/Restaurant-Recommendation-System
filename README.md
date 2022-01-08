@@ -1,6 +1,6 @@
 # Restaurant Recommendation System
 
-This repositry contains the code for the Restaurant Recommendation System.
+This repository contains the code for the Restaurant Recommendation System.
 
 ## Team 
 
